@@ -3,13 +3,4 @@ is an alternative way to construct complex objects.This pattern is used to gener
 
 
 
-
-
-
-# Contributing: 
-
-# Credits: 
-
-# License: 
-
-# Authors: [Sadaf Fatin]
+### Authors: [Sadaf Fatin]
